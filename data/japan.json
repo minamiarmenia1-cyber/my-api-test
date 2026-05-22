@@ -1,24 +1,24 @@
 {
   "data": [
-    "# Japan Shopping 🇯🇵\n- Electronics\n- Fashion\n- Food\n\n**Enjoy your trip!**",
+    "# Japan Shopping \n- Electronics\n- Fashion\n- Food\n\n**Enjoy your trip!**",
 
-    "# Order Confirmed ✅\nYour order has been successfully placed.\n\n- Status: Processing\n- Delivery: 3-5 days",
+    "# Order Confirmed \nYour order has been successfully placed.\n\n- Status: Processing\n- Delivery: 3-5 days",
 
-    "# Delivery Info 🚚\n- Fast shipping available\n- Tracking included\n\n**Check your email for updates**",
+    "# Delivery Info \n- Fast shipping available\n- Tracking included\n\n**Check your email for updates**",
 
-    "# Discount Alert 🔥\n- 20% OFF today\n- Limited time offer\n\n**Don’t miss it!**",
+    "# Discount Alert \n- 20% OFF today\n- Limited time offer\n\n**Don’t miss it!**",
 
-    "# Payment Success 💳\nYour payment was completed successfully.\n\nThank you for your purchase!",
+    "# Payment Success \nYour payment was completed successfully.\n\nThank you for your purchase!",
 
-    "# Product Added 🛒\nItem has been added to your cart.\n\n- Quantity: 1\n- Status: Ready",
+    "# Product Added \nItem has been added to your cart.\n\n- Quantity: 1\n- Status: Ready",
 
-    "# Warning ⚠️\nPlease check your address before confirming order.\n\nIncorrect data may delay delivery.",
+    "# Warning \nPlease check your address before confirming order.\n\nIncorrect data may delay delivery.",
 
-    "# Support Info 📞\n- 24/7 support available\n- Live chat enabled\n\nWe are here to help!",
+    "# Support Info \n- 24/7 support available\n- Live chat enabled\n\nWe are here to help!",
 
-    "# Update Available 🔄\nNew version is ready to install.\n\n- Bug fixes\n- Performance improvements",
+    "# Update Available \nNew version is ready to install.\n\n- Bug fixes\n- Performance improvements",
 
-    "# Welcome 🎉\nWelcome to our app!\n\n**Enjoy your experience with us!**",
+    "# Welcome \nWelcome to our app!\n\n**Enjoy your experience with us!**",
 
     "**Shopping in Japan**\n======================\n\nJapan is a shopper's paradise, offering a diverse range of products and shopping experiences that cater to different tastes and budgets. From traditional markets to modern malls, and from electronics to fashion, Japan has something for everyone.\n\n**Types of Shopping in Japan**\n------------------------------\n\n* **Department Stores**: Large, upscale department stores like Isetan, Mitsukoshi, and Takashimaya offer a wide range of products, including clothing, cosmetics, and home goods.\n* **Shopping Malls**: Modern shopping malls like Shinjuku's Mylord, Tokyo Station's Isetan, and Osaka's Shinsaibashi Shopping Arcade offer a variety of shops, restaurants, and entertainment options.\n* **Traditional Markets**: Visit historical districts like Asakusa's Nakamise Shopping Street, Kyoto's Gion district, or Osaka's Kuromon Ichiba Market for a traditional shopping experience.\n* **Electronics Stores**: Visit Akihabara's \"Electric Town\" or Bic Camera stores for a vast selection of electronics and gadgets.\n\n**Popular Japanese Shopping Districts**\n----------------------------------------\n\n* **Shibuya**: Known for its fashionable boutiques and trendy cafes.\n* **Harajuku**: A hub for Tokyo's youth culture, with unique fashion and style.\n* **Ginza**: Upscale shopping district with luxury brands and high-end department stores.\n* **Shinjuku**: A diverse shopping district with everything from electronics to clothing.\n\n### Must-Visit Shopping Destinations in Japan\n\n#### Tokyo\n\n* **Tokyo Station**: One of the largest train stations in the world, featuring multiple shopping areas and a variety of shops.\n* **Ichibu**: A shopping street in Shibuya with trendy fashion and lifestyle stores.\n* **Nissin**: A popular department store in Shibuya with international brands.\n\n#### Osaka\n\n* **Shinsaibashi Shopping Arcade**: A pedestrian shopping street lined with shops, restaurants, and entertainment options.\n* **Den-Den Town**: A hub for electronics and gaming in Osaka.\n* **Nambu**: A bustling shopping street in downtown Osaka.\n\n### Japanese Shopping Etiquette\n\nWhen shopping in Japan, be respectful of local customs and traditions.\n\n* **Remove Your Shoes**: Many traditional Japanese establishments require customers to remove their shoes before entering.\n* **Bowing**: Bowing is a sign of respect when interacting with sales staff or merchants.\n* **Handling Products**: Handle products with care, as damage to merchandise may incur additional costs.\n\n**Useful Japanese Shopping Phrases**\n\n* `Sumimasen` (su-mee-mah-sen): Excuse me / Sorry\n* `Kono aratamashii deshoulle` (koh-noh ah-rah-tah-mah-shee desh-oo-leh): How much does this cost?\n* `Kudasai` (koo-dah-sah-ee): Please\n* `Arigatou` (ah-ree-gah-toh-oo): Thank you\n\n**Tips for Shopping in Japan**\n\n* **Learn Basic Japanese**: Understanding basic Japanese phrases will enhance your shopping experience.\n* **Research Before Shopping**: Research products and prices before making purchases.\n* **Be Respectful**: Follow Japanese shopping etiquette to avoid offending locals.\n\n### Japanese Shopping Taxes and Returns\n\n* **Tax-Free Shopping**: Some stores in Japan offer tax-free shopping for international visitors.\n* **Returns**: Some stores may accept returns, but it's essential to ask about their return policies before making a purchase.\n\n### Code Block: Using Japan's Point Card System\n\n```bash\n# Using Japan's Point Card System\n\n## Example Use Case\n\n# You have 1000 points in your rewards program\npoints = 1000\n\n# You spend 5000 yen on a purchase\namount = 5000\n\n# Calculate the points earned\npoints_earned = amount * 1.5  # 1 point = 1.5 yen\n\n# Update your points balance\nprint(\"New points balance:\", points + points_earned)\n```\n\nThis code block demonstrates how to calculate and update your points balance when using Japan's point card system."
 

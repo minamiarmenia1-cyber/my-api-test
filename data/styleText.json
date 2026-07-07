@@ -96,7 +96,7 @@
       "html": "<div style='background:linear-gradient(90deg,#667eea,#764ba2); color:#fff; padding:20px; border-radius:12px; text-align:center; font-size:18px; font-weight:bold;'>🎉 Красивый градиентный баннер</div>"
     },
     {
-      "id": 20,
+      "id": 115,
       "type": "card",
       "html": "<div style='box-shadow:0 4px 8px rgba(0,0,0,0.1); border-radius:12px; padding:20px; background:#fff;'><h3 style='margin-top:0; color:#2c3e50;'>Карточка с тенью</h3><p style='color:#7f8c8d;'>Описание внутри карточки. Подходит для товаров, новостей, профилей.</p><button style='background:#3498db; color:#fff; border:none; padding:10px 20px; border-radius:6px; cursor:pointer;'>Кнопка</button></div>"
     }

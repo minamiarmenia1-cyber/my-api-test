@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "type": "heading",
+      "html": "<h1 style='color:#2c3e50; font-family:Arial;'>Большой заголовок H1</h1>"
+    },
+    {
+      "id": 2,
+      "type": "subheading",
+      "html": "<h2 style='color:#e74c3c; border-bottom:2px solid #e74c3c; padding-bottom:5px;'>Подзаголовок с линией</h2>"
+    },
+    {
+      "id": 3,
+      "type": "paragraph",
+      "html": "<p style='font-size:16px; line-height:1.6; color:#333;'>Обычный абзац текста с хорошей читаемостью. Здесь может быть любая информация для пользователя.</p>"
+    },
+    {
+      "id": 4,
+      "type": "bold_text",
+      "html": "<p><strong style='color:#000;'>Жирный текст</strong> и обычный текст рядом с ним.</p>"
+    },
+    {
+      "id": 5,
+      "type": "italic_text",
+      "html": "<p><em style='color:#7f8c8d;'>Курсивный текст для акцента</em> внутри предложения.</p>"
+    },
+    {
+      "id": 6,
+      "type": "bullet_list",
+      "html": "<ul style='color:#2c3e50; line-height:1.8;'><li>Первый пункт списка</li><li>Второй пункт списка</li><li>Третий пункт списка</li></ul>"
+    },
+    {
+      "id": 7,
+      "type": "numbered_list",
+      "html": "<ol style='color:#34495e; line-height:1.8;'><li>Шаг первый</li><li>Шаг второй</li><li>Шаг третий</li></ol>"
+    },
+    {
+      "id": 8,
+      "type": "colored_bullets",
+      "html": "<ul style='list-style:none; padding:0;'><li style='padding:5px;'>🔴 Красный пункт</li><li style='padding:5px;'>🟢 Зелёный пункт</li><li style='padding:5px;'>🔵 Синий пункт</li></ul>"
+    },
+    {
+      "id": 9,
+      "type": "checklist",
+      "html": "<ul style='list-style:none; padding:0; line-height:2;'><li>✅ Выполненная задача</li><li>✅ Ещё одна готовая задача</li><li>⬜ Задача в процессе</li></ul>"
+    },
+    {
+      "id": 10,
+      "type": "quote",
+      "html": "<blockquote style='border-left:4px solid #3498db; margin:10px 0; padding:10px 20px; background:#ecf0f1; font-style:italic;'>Это цитата или важная мысль, выделенная в блок.</blockquote>"
+    },
+    {
+      "id": 11,
+      "type": "warning_box",
+      "html": "<div style='background:#fff3cd; border:1px solid #ffc107; border-radius:8px; padding:12px; color:#856404;'>⚠️ <strong>Внимание!</strong> Это предупреждающее сообщение.</div>"
+    },
+    {
+      "id": 12,
+      "type": "success_box",
+      "html": "<div style='background:#d4edda; border:1px solid #28a745; border-radius:8px; padding:12px; color:#155724;'>✅ <strong>Успех!</strong> Операция выполнена успешно.</div>"
+    },
+    {
+      "id": 13,
+      "type": "error_box",
+      "html": "<div style='background:#f8d7da; border:1px solid #dc3545; border-radius:8px; padding:12px; color:#721c24;'>❌ <strong>Ошибка!</strong> Что-то пошло не так.</div>"
+    },
+    {
+      "id": 14,
+      "type": "info_box",
+      "html": "<div style='background:#d1ecf1; border:1px solid #17a2b8; border-radius:8px; padding:12px; color:#0c5460;'>ℹ️ <strong>Информация:</strong> Полезная подсказка для пользователя.</div>"
+    },
+    {
+      "id": 15,
+      "type": "highlighted_text",
+      "html": "<p>Обычный текст с <mark style='background:#ffeb3b; padding:2px 6px; border-radius:3px;'>выделенным фрагментом</mark> внутри.</p>"
+    },
+    {
+      "id": 16,
+      "type": "link_text",
+      "html": "<p>Текст со <a href='https://example.com' style='color:#3498db; text-decoration:underline;'>ссылкой на сайт</a> внутри абзаца.</p>"
+    },
+    {
+      "id": 17,
+      "type": "code_block",
+      "html": "<pre style='background:#2d2d2d; color:#f8f8f2; padding:15px; border-radius:8px; overflow-x:auto;'><code>const hello = 'Привет мир';\nconsole.log(hello);</code></pre>"
+    },
+    {
+      "id": 18,
+      "type": "table",
+      "html": "<table style='border-collapse:collapse; width:100%;'><tr style='background:#3498db; color:#fff;'><th style='padding:8px; border:1px solid #ddd;'>Название</th><th style='padding:8px; border:1px solid #ddd;'>Цена</th></tr><tr><td style='padding:8px; border:1px solid #ddd;'>Товар 1</td><td style='padding:8px; border:1px solid #ddd;'>100₽</td></tr><tr style='background:#f2f2f2;'><td style='padding:8px; border:1px solid #ddd;'>Товар 2</td><td style='padding:8px; border:1px solid #ddd;'>200₽</td></tr></table>"
+    },
+    {
+      "id": 19,
+      "type": "gradient_banner",
+      "html": "<div style='background:linear-gradient(90deg,#667eea,#764ba2); color:#fff; padding:20px; border-radius:12px; text-align:center; font-size:18px; font-weight:bold;'>🎉 Красивый градиентный баннер</div>"
+    },
+    {
+      "id": 20,
+      "type": "card",
+      "html": "<div style='box-shadow:0 4px 8px rgba(0,0,0,0.1); border-radius:12px; padding:20px; background:#fff;'><h3 style='margin-top:0; color:#2c3e50;'>Карточка с тенью</h3><p style='color:#7f8c8d;'>Описание внутри карточки. Подходит для товаров, новостей, профилей.</p><button style='background:#3498db; color:#fff; border:none; padding:10px 20px; border-radius:6px; cursor:pointer;'>Кнопка</button></div>"
+    }
+  ]
+}

@@ -3,76 +3,91 @@
     {
       "id": 1,
       "type": "heading",
+      "numbers": 12.5,
       "html": "<h1 style='color:#2c3e50; font-family:Arial;'>Большой заголовок H1</h1>"
     },
     {
       "id": 2,
       "type": "subheading",
+      "numbers": 12,
       "html": "<h2 style='color:#e74c3c; border-bottom:2px solid #e74c3c; padding-bottom:5px;'>Подзаголовок с линией</h2>"
     },
     {
       "id": 3,
       "type": "paragraph",
+      "numbers": 0.5,
       "html": "<p style='font-size:16px; line-height:1.6; color:#333;'>Обычный абзац текста с хорошей читаемостью. Здесь может быть любая информация для пользователя.</p>"
     },
     {
       "id": 4,
       "type": "bold_text",
+      "numbers": 0.666,
       "html": "<p><strong style='color:#000;'>Жирный текст</strong> и обычный текст рядом с ним.</p>"
     },
     {
       "id": 5,
       "type": "italic_text",
+      "numbers": -5,
       "html": "<p><em style='color:#7f8c8d;'>Курсивный текст для акцента</em> внутри предложения.</p>"
     },
     {
       "id": 6,
       "type": "bullet_list",
+      "numbers": 15,
       "html": "<ul style='color:#2c3e50; line-height:1.8;'><li>Первый пункт списка</li><li>Второй пункт списка</li><li>Третий пункт списка</li></ul>"
     },
     {
       "id": 7,
       "type": "numbered_list",
+      "numbers": -1.5,
       "html": "<ol style='color:#34495e; line-height:1.8;'><li>Шаг первый</li><li>Шаг второй</li><li>Шаг третий</li></ol>"
     },
     {
       "id": 8,
       "type": "colored_bullets",
+      "numbers": -5.3,
       "html": "<ul style='list-style:none; padding:0;'><li style='padding:5px;'>🔴 Красный пункт</li><li style='padding:5px;'>🟢 Зелёный пункт</li><li style='padding:5px;'>🔵 Синий пункт</li></ul>"
     },
     {
       "id": 9,
       "type": "checklist",
+      "numbers": -0.5,
       "html": "<ul style='list-style:none; padding:0; line-height:2;'><li>✅ Выполненная задача</li><li>✅ Ещё одна готовая задача</li><li>⬜ Задача в процессе</li></ul>"
     },
     {
       "id": 10,
       "type": "quote",
+      "numbers": 0,
       "html": "<blockquote style='border-left:4px solid #3498db; margin:10px 0; padding:10px 20px; background:#ecf0f1; font-style:italic;'>Это цитата или важная мысль, выделенная в блок.</blockquote>"
     },
     {
       "id": 11,
       "type": "warning_box",
+      "numbers": 9,
       "html": "<div style='background:#fff3cd; border:1px solid #ffc107; border-radius:8px; padding:12px; color:#856404;'>⚠️ <strong>Внимание!</strong> Это предупреждающее сообщение.</div>"
     },
     {
       "id": 12,
       "type": "success_box",
+      "numbers": 3.33,
       "html": "<div style='background:#d4edda; border:1px solid #28a745; border-radius:8px; padding:12px; color:#155724;'>✅ <strong>Успех!</strong> Операция выполнена успешно.</div>"
     },
     {
       "id": 13,
       "type": "error_box",
+      "numbers": -1.11,
       "html": "<div style='background:#f8d7da; border:1px solid #dc3545; border-radius:8px; padding:12px; color:#721c24;'>❌ <strong>Ошибка!</strong> Что-то пошло не так.</div>"
     },
     {
       "id": 14,
       "type": "info_box",
+      "numbers": -6,
       "html": "<div style='background:#d1ecf1; border:1px solid #17a2b8; border-radius:8px; padding:12px; color:#0c5460;'>ℹ️ <strong>Информация:</strong> Полезная подсказка для пользователя.</div>"
     },
     {
       "id": 15,
       "type": "highlighted_text",
+      "numbers": 17,
       "html": "<p>Обычный текст с <mark style='background:#ffeb3b; padding:2px 6px; border-radius:3px;'>выделенным фрагментом</mark> внутри.</p>"
     },
     {
@@ -83,31 +98,37 @@
     {
       "id": 17,
       "type": "code_block",
+      "numbers": -17,
       "html": "<pre style='background:#2d2d2d; color:#f8f8f2; padding:15px; border-radius:8px; overflow-x:auto;'><code>const hello = 'Привет мир';\nconsole.log(hello);</code></pre>"
     },
     {
       "id": 18,
       "type": "table",
+      "numbers": -1,
       "html": "<table style='border-collapse:collapse; width:100%;'><tr style='background:#3498db; color:#fff;'><th style='padding:8px; border:1px solid #ddd;'>Название</th><th style='padding:8px; border:1px solid #ddd;'>Цена</th></tr><tr><td style='padding:8px; border:1px solid #ddd;'>Товар 1</td><td style='padding:8px; border:1px solid #ddd;'>100₽</td></tr><tr style='background:#f2f2f2;'><td style='padding:8px; border:1px solid #ddd;'>Товар 2</td><td style='padding:8px; border:1px solid #ddd;'>200₽</td></tr></table>"
     },
     {
       "id": 19,
       "type": "gradient_banner",
+      "numbers": 1,
       "html": "<div style='background:linear-gradient(90deg,#667eea,#764ba2); color:#fff; padding:20px; border-radius:12px; text-align:center; font-size:18px; font-weight:bold;'>🎉 Красивый градиентный баннер</div>"
     },
     {
       "id": 115,
       "type": "card",
+      "numbers": 115,
       "html": "<div style='box-shadow:0 4px 8px rgba(0,0,0,0.1); border-radius:12px; padding:20px; background:#fff;'><h3 style='margin-top:0; color:#2c3e50;'>Карточка с тенью</h3><p style='color:#7f8c8d;'>Описание внутри карточки. Подходит для товаров, новостей, профилей.</p><button style='background:#3498db; color:#fff; border:none; padding:10px 20px; border-radius:6px; cursor:pointer;'>Кнопка</button></div>"
     },
     {
       "id": 97,
       "type": "html bug",
+      "numbers": 97,
       "html": "Previous claim completed April 2023<br /><br /><span style=\"color: #333333; font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;\">IV has had glass cov since being added to the POL June 2021</span><br style=\"box-sizing: border-box; padding: 0px; margin: 0px; color: #333333; font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;\" /><br style=\"box-sizing: border-box; padding: 0px; margin: 0px; color: #333333; font-family: Roboto, Verdana, Arial, Helvetica, sans-serif;\" />\n<div style=\"box-sizing: border-box; padding: 0px; margin: 0px; color: #555555; font-family: Roboto, Arial, Tahoma, sans-serif;\"><span class=\"commentDate\" style=\"box-sizing: border-box; padding: 0px; margin: 0px; color: #333333; text-shadow: #aaaaaa 0px 1px 1px; font-weight: bold;\">06/01/2021 11:01 AM</span>&nbsp;-&nbsp;<span class=\"commentAgentStamp\" style=\"box-sizing: border-box; padding: 0px; margin: 0px; text-shadow: grey 0px 1px 0px; font-weight: bold;\">PATIL MARKARIAN(COMMONWEALTH CASUALTY COMPANY)</span></div> <div class=\"commentBody\" style=\"box-sizing: border-box; padding: 0px 0px 10px 20px; margin: 0px; color: #555555; font-family: Roboto, Arial, Tahoma, sans-serif;\">NI FV<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />REMOVE VEHICLE 2005 FORD F150 CREW PICKUP<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />VIN: 1FTPW12575FA25686<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />**ADD VEHICLE**<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />REG OWNER: NI<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />YR/MAKE&gt;MODELV 2021 CHEVROLET EQUINOX LS SUV<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />VIN: 3GNAXHEV8MS163455<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />VERIFY GARAGING LOCATION Y<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />EXISTING DAMAGE N<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />FINANCED<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />DRIVERS: NI<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />ADDLT HH MEMBERS: N<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />COVRG: LIAB + UMBI + UIMBI + UMPD + $500COMP/COLL + RENTAL $30 + GLASS + NDRR<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />DOWN PAYMENT DUE TODAY: $55.83 COLLECTED<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />FUTURE INSTALLMENTS STARTING JUN 22, 2021: $229.36<br style=\"box-sizing: border-box; padding: 0px; margin: 0px;\" />ID CARD AND DEC PAGE SENT</div>"
    },
     {
       "id": 37,
       "type": "html test value",
+      "numbers": 37.77,
       "html": "<div style=\"width:100%; \"> <div style=\"display: flex !important; width:100%; padding-right: 10px; margin-top: 4px; \"> <div style=\" width:100.0%;\"> <div style=\"display: flex !important; width:100%; padding-right: 10px; margin-top: 4px;\"> <div style=\"width:16.6% \"> <div data-element-path=\"null_1048_2480_5637_25716\"> <p style=\"text-align:left; ; margin: 0;\"><span class=\"asterix\" data_auto_id=\"1048_2480_5637_25716\" style=\"white-space: break-spaces; font-family:Calibri; font-size:14px ; text-align:left; ; ; \">4</span></p> </div> </div> </div> <div style=\"display: flex !important; width:100%; padding-right: 10px; margin-top: 4px;\"> <div style=\"width:24.2168% \"> <div data-element-path=\"null_1048_2480_5637_25714\"> <span data_auto_id=\"1048_2480_5637_25714\" class=\"\"><strong><span class=\"asterix\" style=\"font-size:18px\">New cons with style</span></strong></span><span class=\"asterix\" style=\"font-size:14px;white-space:break-spaces;\"><br></span><span class=\"asterix\"><em><strong>Second cons</strong></em></span> </div> </div> </div> <div style=\"display: flex !important; width:100%; padding-right: 10px; margin-top: 4px;\"> <div style=\"width:16.6% \"> <div style=\"width: 100%;\"> <div style=\"outline: none !important;\"> <div> <span type=\"text\" value=\"272\" style=\"text-align:left; height: 30px; border:none;\">272</span> </div> </div> </div> </div> </div> </div> </div> </div>"
     }
     
